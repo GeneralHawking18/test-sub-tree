@@ -12,8 +12,6 @@ public class LambdaExpressions {
 			String a = "13";
 			return s + a;
 		};
-		String a = "123";
-		test2.concatenation(a);
 	}
 
 }

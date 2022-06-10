@@ -1,0 +1,14 @@
+package LambdaExpressions;
+
+public class LambdaExpressions {
+	public interface StringFunction {
+		public String void run(String str);
+	}
+	
+	public static void main(String... args) {
+		StringFunction test = (s) -> s + 'l';
+		StringFunction exclaim = (s) -> s + "!";
+		
+	}
+
+}

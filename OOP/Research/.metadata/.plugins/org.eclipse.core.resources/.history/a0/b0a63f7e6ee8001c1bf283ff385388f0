@@ -1,0 +1,10 @@
+package Stream;
+
+import java.util.ArrayList;
+
+public class Stream {
+	public static void main (String... args) {
+		ArrayList<String> test = new ArrayList("123", "123", "123");
+		
+	}
+}

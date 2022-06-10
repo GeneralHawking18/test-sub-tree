@@ -10,10 +10,8 @@ public class LambdaExpressions {
 		System.out.print(test.concatenation("123"));
 		StringFunction test2 = s -> {
 			String a = "13";
-			return s + a;
+			s += a;
 		};
-		String a = "123";
-		test2.concatenation(a);
 	}
 
 }

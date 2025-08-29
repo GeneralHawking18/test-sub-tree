@@ -1,0 +1,19 @@
+package LambdaExpressions;
+
+public class LambdaExpressions {
+	public interface StringFunction {
+		public String concatenation(String str);	
+	}
+	
+	public static void main(String... args) {
+		StringFunction test = s -> s + "abc";
+		System.out.print(test.concatenation("123"));
+		StringFunction test2 = s -> {
+			String a = "13";
+			return s + a;
+		};
+		String a = "123";
+		test2.concatenation(a);
+	}
+
+}

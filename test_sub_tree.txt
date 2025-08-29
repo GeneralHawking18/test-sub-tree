@@ -4,4 +4,10 @@
 - Bây giờ tôi sẽ tiếp tục thử nghiệm thêm ở folder cha sau khi:
 rm -rf 20212
 git add -A
+<<<<<<< HEAD
 git commit -m "remove old 20212 before subtree add"
+=======
+git commit -m "remove old 20212 before subtree add"
+
+- Bây giờ tôi sẽ tiếp tục thêm các nội dùng cua các file và dùng lệnh này để add:
+>>>>>>> 2eb518f919c91613dad26bcfc6966cf5d1ead95e

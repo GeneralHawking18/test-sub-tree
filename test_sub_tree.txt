@@ -5,3 +5,5 @@
 rm -rf 20212
 git add -A
 git commit -m "remove old 20212 before subtree add"
+
+- Bây giờ tôi sẽ thay đổi một lần nữa ở repo con

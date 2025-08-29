@@ -5,3 +5,5 @@
 rm -rf 20212
 git add -A
 git commit -m "remove old 20212 before subtree add"
+
+- Bây giờ tôi sẽ tiếp tục thêm các nội dùng cua các file và dùng lệnh này để add:

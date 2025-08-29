@@ -1,2 +1,0 @@
-Tôi đang thử nghiệm subtree để cho phép bên thử 3 edit code vào trong repo, xong rồi đẩy ngược code vể repo con.
-Thử nghiệm là sẽ đẩy code từ hust-docs repo vào trong product và khi nào bên product thay đổi thì sẽ chuyển người

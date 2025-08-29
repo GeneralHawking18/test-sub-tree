@@ -8,3 +8,5 @@ git commit -m "remove old 20212 before subtree add"
 
 - Bây giờ tôi sẽ thay đổi một lần nữa ở repo con
 - Tiêp tục sau khi thử resolve conflict
+
+- TGhay đổi bên repo cha

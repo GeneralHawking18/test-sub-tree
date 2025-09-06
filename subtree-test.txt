@@ -12,3 +12,5 @@ Tiếp
 
 Thử comit nhiều lần và push nhiều commit
 commit 1
+
+commit 2

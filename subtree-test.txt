@@ -9,3 +9,6 @@ Tôi thử eidt code từ parent repo
 Tôi thử tiếp thay đổi các code trên repo con
 Tiếp tục 
 Tiếp
+
+Thử comit nhiều lần và push nhiều commit
+commit 1

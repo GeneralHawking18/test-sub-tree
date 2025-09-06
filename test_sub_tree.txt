@@ -23,3 +23,5 @@ git commit -m "remove old 20212 before subtree add"
 
 
 - Tiép thay đổi xem
+
+-- Tiép tôi muón thay đỏi repo con tiếp xem có được không?

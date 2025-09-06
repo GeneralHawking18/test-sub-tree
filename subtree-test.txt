@@ -7,3 +7,4 @@ Tôi thử thêm code vào đây xem nó hiện gì không
 Tôi thử eidt code từ parent repo
 
 Tôi thử tiếp thay đổi các code trên repo con
+Tiếp tục 

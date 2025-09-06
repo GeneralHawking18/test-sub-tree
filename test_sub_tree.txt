@@ -20,3 +20,6 @@ git commit -m "remove old 20212 before subtree add"
 
 
 - Tôi muón thay đổi trên repo con về repo parent
+
+
+- Tiép thay đổi xem

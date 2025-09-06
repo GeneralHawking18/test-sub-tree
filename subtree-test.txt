@@ -2,3 +2,6 @@ Tôi đang thử nghiệm subtree để cho phép bên thử 3 edit code vào tr
 Thử nghiệm là sẽ đẩy code từ hust-docs repo vào trong product và khi nào bên product thay đổi thì sẽ chuyển người
 
 Tôi thử thêm code vào đây xem nó hiện gì không
+
+
+Tôi thử eidt code từ parent repo
